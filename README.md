@@ -3,7 +3,7 @@ Môn học Ứng dụng xử lý ảnh và video số
 
 I. Ứng dụng
 1. Erosion
--Loại bỏ các chi tiết nhỏ không cần thiết như nhiễu, thu hẹp kích thước các vùng quan tâm.
+- Loại bỏ các chi tiết nhỏ không cần thiết như nhiễu, thu hẹp kích thước các vùng quan tâm.
 
 2. Dilation
 - Lấp kẽ hở, lỗ hỏng.
